@@ -72,10 +72,10 @@ npm run serve
 
 **点击查看课程可以跳转到视频页面，数据通过路由传值到视频页，点击申请退款弹出提示框。**
 
-![image](https://user-images.githubusercontent.com/109722564/204243072-7f4f10cb-067e-4871-83a0-16f30aecff98.png)
-![image](https://user-images.githubusercontent.com/109722564/204243092-83d9efba-51f6-4b33-af1d-38154ff2970c.png)
+![image](https://user-images.githubusercontent.com/109722564/204244196-d5b4929a-30d0-467e-9d7d-77b320223d61.png)
 ![image](https://user-images.githubusercontent.com/109722564/204243103-0bf6778d-f448-40a5-baf7-4f0cff976706.png)
 ![image](https://user-images.githubusercontent.com/109722564/204243117-1496a0ce-0e6b-4ee3-b932-bd8429f94490.png)
+![image](https://user-images.githubusercontent.com/109722564/204244235-12b736cc-b7ec-4579-b7be-1cb2aed6bcd4.png)
 
 **11、order组件中的 代付款：\**
 
